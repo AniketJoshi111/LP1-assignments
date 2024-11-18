@@ -1,0 +1,30 @@
+Expanded Code
+MOVER AREG A
+ADD AREG B
+MOVEM AREG A
+_________________________________
+Expanded Code
+MOVER AREG A
+ADD AREG B
+MOVEM AREG A
+_________________________________
+Expanded Code
+MOVER AREG A
+ADD AREG B
+MOVEM AREG A
+_________________________________
+Expanded Code
+MOVER AREG A
+ADD AREG B
+MOVEM AREG A
+_________________________________
+Expanded Code
+MOVER AREG A
+ADD AREG B
+MOVEM AREG A
+_________________________________
+Expanded Code
+MOVER BREG A
+ADD BREG B
+MOVEM BREG A
+_________________________________
